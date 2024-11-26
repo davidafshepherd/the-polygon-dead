@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Unity\\Low Poly Fighting Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|d:\\projects\\unity\\low poly fighting game\\assets\\scripts\\thirdpersonshootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersonshootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\stats\\zombiestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\zombiestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\Low Poly Fighting Game\\assets\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381567E-3125-B355-DF4A-073471049C94}|Assembly-CSharp.csproj|solutionrelative:assets\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\PlayerStats.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:46:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZombieStats.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\ZombieStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\ZombieStats.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\ZombieStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\ZombieStats.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:38:30.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\CharacterStats.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:46:37.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wave.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Wave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wave.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\Wave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:59:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:12:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZombieController.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\ZombieController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieController.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\ZombieController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:37:14.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdPersonShooterController.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\ThirdPersonShooterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonShooterController.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\Scripts\\ThirdPersonShooterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonShooterController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAUwLUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:36:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Low Poly Fighting Game\\Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAswI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:31:32.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
