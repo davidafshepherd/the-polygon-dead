@@ -1,4 +1,0 @@
-repository "Low Poly Fighting Game@DsSTP@cloud"
-  path "/"
-    br "/main"
-    co "/main"
